@@ -10,8 +10,16 @@ body {
   background: linear-gradient(pink, violet);
 }
 
+input {
+  border-radius: 20px ;
+}
+select{
+  border-radius: 20px ;
+}
+
 button {
   font-size: 7px;
+  border-radius: 10px ;
 }
 
 #main-content {
@@ -35,3 +43,4 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
